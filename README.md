@@ -1,7 +1,7 @@
 Android Dagger Demo
 -------------------
 
-Testing with Dagger 2, Espresso 2 and Mockito.MGS MGS
+Testing with Dagger 2, Espresso 2 and Mockito.MGS___
 
 Blog posts: 
    * http://blog.sqisland.com/2015/04/dagger-2-espresso-2-mockito.html
